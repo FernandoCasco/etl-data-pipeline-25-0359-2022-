@@ -1,0 +1,31 @@
+id_inventario,id_producto,stock,bodega,motivo_rechazo
+I7014,,230.0,Sucursal 2,id_producto nulo
+I7017,PR9999,122.0,Central,Producto no existe
+I7019,PR1063,,Sucursal 1,Stock nulo o inválido
+I7020,PR1024,,Tránsito,Stock nulo o inválido
+I7022,PR1011,,Sucursal 2,Stock nulo o inválido
+I7043,PR1125,,Sucursal 2,Stock nulo o inválido
+I7062,PR1044,,Sucursal 1,Stock nulo o inválido
+I7070,PR9999,155.0,Tránsito,Producto no existe
+I7077,PR9999,113.0,Sucursal 1,Producto no existe
+I7079,PR1076,,Tránsito,Stock nulo o inválido
+I7090,PR9999,244.0,Sucursal 2,Producto no existe
+I7092,PR1008,,Sucursal 1,Stock nulo o inválido
+I7102,PR1083,,Tránsito,Stock nulo o inválido
+I7111,PR1021,,Sucursal 2,Stock nulo o inválido
+I7112,,183.0,Tránsito,id_producto nulo
+I7113,,238.0,Central,id_producto nulo
+I7117,PR1013,,Sucursal 1,Stock nulo o inválido
+I7120,,150.0,Tránsito,id_producto nulo
+I7130,PR1050,,Tránsito,Stock nulo o inválido
+I7134,PR1095,,Sucursal 1,Stock nulo o inválido
+I7150,PR1125,,Sucursal 2,Stock nulo o inválido
+I7151,,113.0,Sucursal 2,id_producto nulo
+I7161,,71.0,Tránsito,id_producto nulo
+I7176,PR1001,,Central,Stock nulo o inválido
+I7062,PR1044,,Sucursal 1,Duplicado
+I7139,PR1034,4.0,Tránsito,Duplicado
+I7021,PR1023,65.0,Sucursal 1,Duplicado
+I7025,PR1026,192.0,Sucursal 1,Duplicado
+I7071,PR1045,110.0,Tránsito,Duplicado
+I7050,PR1071,170.0,Central,Duplicado
